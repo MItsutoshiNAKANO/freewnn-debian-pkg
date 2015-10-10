@@ -1,7 +1,6 @@
 freewnn (1.1.1~a021+cvs20130302-5) unstable; urgency=medium
 
   [ Andreas Beckmann ] <anbe@debian.org>
-  * QA upload.
   * debian/patches/egrep-a.patch: Prevent egrep from reporting "Binary file ...
     matches" in some locales.  (Closes: #797242)
   [ Mitsutoshi NAKANO ]
@@ -13,7 +12,7 @@ freewnn (1.1.1~a021+cvs20130302-5) unstable; urgency=medium
   * control (Vcs-Git)
     (Vcs-Browser): added tags for new repository.
 
- -- Mitsutoshi NAKANO <ItSANgo@gmail.com>  Sun, 04 Oct 2015 07:40:52 +0900
+ -- Mitsutoshi NAKANO <ItSANgo@gmail.com>  Sat, 10 Oct 2015 09:08:20 +0900
 
 freewnn (1.1.1~a021+cvs20130302-4) unstable; urgency=low
 
